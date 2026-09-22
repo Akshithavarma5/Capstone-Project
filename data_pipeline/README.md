@@ -49,3 +49,9 @@ Install the required libraries using:
 
 ```bash
 python -m pip install -r data_pipeline/requirements.txt
+
+## Module Status
+
+Module 1 — Data Pipeline has been completed and tested end to end.
+
+The scraper, cleaning pipeline, SQLite database, SQL queries, and pandas JOIN comparison have all been executed successfully.
