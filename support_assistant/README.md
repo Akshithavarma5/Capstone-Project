@@ -40,3 +40,7 @@ support_assistant/
 ├── requirements.txt
 ├── retrieval_test.py
 └── schemas.py
+
+## Development Workflow
+
+Changes are developed on feature branches, reviewed, and merged into the main branch.
